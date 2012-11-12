@@ -32,9 +32,6 @@ def checkio(input_data):
     for p in range(4):
         for i in range(4):
             for j in range(4):
-                # print "&&&&&&&"
-                # print "i=", i
-                # print "j=", j
                 if new_cipher_grille[i][j] == "X":
                     mypassword += ciphered_password[i][j]
                     
