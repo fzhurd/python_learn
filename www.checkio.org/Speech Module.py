@@ -1,3 +1,9 @@
+#Stephen got his speech module broken. This module is responsible for the number pronunciation. He had to click all the digits in the number, and when those were big numbers it could take him a long time. Help the robot to write the speech module for him to speak to his friends easier and quicker. All words in string must be separated by exactly one space character.
+
+#Input: Integer number. From 0 to 1000
+
+#Output: String representation of this number
+
 def checkio(number):
     str_1number = ['one', 'two', 'three', 'four', 'five', 'six', 'seven', 'eight', 'nine']
     str_2number = ['ten', 'eleven', 'twelve', 'thirteen', 'fourteen', 'fifteen', 'sixteen', 'seventeen', 'eighteen', 'nineteen', 'twenty']

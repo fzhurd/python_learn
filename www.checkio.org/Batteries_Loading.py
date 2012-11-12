@@ -1,3 +1,10 @@
+#Help Stephen to break down the weight in such a way so that when he takes all the details in his both hands the difference between the weights in each hand is minimal. Nikola¡¯s details cannot be broken into parts which means the weight of one detail cannot be divided between the hands.
+
+#Input data: Input contains list of weights of the details.
+
+#Output data: a number representing the minimal possible weight difference between details in his each hands.
+
+
 import random
 import itertools
 
